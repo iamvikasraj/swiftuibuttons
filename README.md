@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=iamvikasraj&project=swiftuibuttons&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # jordansingerbutton
 
 A beautiful, interactive counter component for SwiftUI featuring glassmorphic arrow buttons and smooth animations.
