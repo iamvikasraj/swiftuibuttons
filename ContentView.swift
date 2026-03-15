@@ -53,6 +53,8 @@ private extension LinearGradient {
 enum HapticsHelper {
     static func impactMedium() {
         #if canImport(UIKit)
+        // Skip in SwiftUI previews to avoid canvas issues
+        if ProcessInfo.processInfo.environment["XCODE_RUNNING_FOR_PREVIEWS"] == "1" { return }
         UIImpactFeedbackGenerator(style: .medium).impactOccurred()
         #endif
     }
@@ -271,6 +273,7 @@ struct AnimatedCounterText: View {
     }
 }
 
-#Preview {
+#Preview("Date selector") {
     ArrowDateSelectorView()
+        .preferredColorScheme(.dark)
 }
