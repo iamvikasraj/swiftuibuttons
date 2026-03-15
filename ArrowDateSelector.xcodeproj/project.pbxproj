@@ -13,7 +13,7 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3210D5762E156E1C006027FF /* ArrowDateSelector */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ArrowDateSelector;
+			path = .;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3210D56F2E156E1C006027FF /* Build configuration list for PBXProject "GlassButton" */;
+			buildConfigurationList = 3210D56F2E156E1C006027FF /* Build configuration list for PBXProject "ArrowDateSelector" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -332,7 +332,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3210D56F2E156E1C006027FF /* Build configuration list for PBXProject "GlassButton" */ = {
+		3210D56F2E156E1C006027FF /* Build configuration list for PBXProject "ArrowDateSelector" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3210D57D2E156E1D006027FF /* Debug */,

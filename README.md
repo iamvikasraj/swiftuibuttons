@@ -1,13 +1,7 @@
 # ArrowDateSelector
 
-A SwiftUI date selector app with glassmorphic arrow buttons and smooth animations.
+A SwiftUI date selector with glassmorphic arrow buttons and smooth animations.
 
-## Structure
+**Open `ArrowDateSelector.xcodeproj` in Xcode to build and run.**
 
-- **GlassButton.xcodeproj** – Open this in Xcode to build and run.
-- **ArrowDateSelector/** – App source (Swift files and assets).
-
-## Requirements
-
-- Xcode 15+
-- iOS 17+
+Requirements: Xcode 15+, iOS 17+
