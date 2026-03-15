@@ -6,17 +6,20 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		3210D5942E156E1C006027FF /* ArrowDateSelectorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3210D5902E156E1C006027FF /* ArrowDateSelectorApp.swift */; };
+		3210D5952E156E1C006027FF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3210D5912E156E1C006027FF /* ContentView.swift */; };
+		3210D5962E156E1C006027FF /* GlassText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3210D5922E156E1C006027FF /* GlassText.swift */; };
+		3210D5972E156E1C006027FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3210D5932E156E1C006027FF /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		3210D5742E156E1C006027FF /* ArrowDateSelector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArrowDateSelector.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3210D5902E156E1C006027FF /* ArrowDateSelectorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrowDateSelectorApp.swift; sourceTree = "<group>"; };
+		3210D5912E156E1C006027FF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3210D5922E156E1C006027FF /* GlassText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassText.swift; sourceTree = "<group>"; };
+		3210D5932E156E1C006027FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		3210D5762E156E1C006027FF /* ArrowDateSelector */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = .;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		3210D5712E156E1C006027FF /* Frameworks */ = {
@@ -32,7 +35,10 @@
 		3210D56B2E156E1C006027FF = {
 			isa = PBXGroup;
 			children = (
-				3210D5762E156E1C006027FF /* ArrowDateSelector */,
+				3210D5902E156E1C006027FF /* ArrowDateSelectorApp.swift */,
+				3210D5912E156E1C006027FF /* ContentView.swift */,
+				3210D5922E156E1C006027FF /* GlassText.swift */,
+				3210D5932E156E1C006027FF /* Assets.xcassets */,
 				3210D5752E156E1C006027FF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,9 +65,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				3210D5762E156E1C006027FF /* ArrowDateSelector */,
 			);
 			name = ArrowDateSelector;
 			packageProductDependencies = (
@@ -109,6 +112,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3210D5972E156E1C006027FF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +123,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3210D5942E156E1C006027FF /* ArrowDateSelectorApp.swift in Sources */,
+				3210D5952E156E1C006027FF /* ContentView.swift in Sources */,
+				3210D5962E156E1C006027FF /* GlassText.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
