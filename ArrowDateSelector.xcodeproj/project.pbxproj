@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		3210D5942E156E1C006027FF /* ArrowDateSelectorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3210D5902E156E1C006027FF /* ArrowDateSelectorApp.swift */; };
 		3210D5952E156E1C006027FF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3210D5912E156E1C006027FF /* ContentView.swift */; };
-		3210D5962E156E1C006027FF /* GlassText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3210D5922E156E1C006027FF /* GlassText.swift */; };
 		3210D5972E156E1C006027FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3210D5932E156E1C006027FF /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
@@ -17,7 +16,6 @@
 		3210D5742E156E1C006027FF /* ArrowDateSelector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArrowDateSelector.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3210D5902E156E1C006027FF /* ArrowDateSelectorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrowDateSelectorApp.swift; sourceTree = "<group>"; };
 		3210D5912E156E1C006027FF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		3210D5922E156E1C006027FF /* GlassText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassText.swift; sourceTree = "<group>"; };
 		3210D5932E156E1C006027FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -37,7 +35,6 @@
 			children = (
 				3210D5902E156E1C006027FF /* ArrowDateSelectorApp.swift */,
 				3210D5912E156E1C006027FF /* ContentView.swift */,
-				3210D5922E156E1C006027FF /* GlassText.swift */,
 				3210D5932E156E1C006027FF /* Assets.xcassets */,
 				3210D5752E156E1C006027FF /* Products */,
 			);
@@ -125,7 +122,6 @@
 			files = (
 				3210D5942E156E1C006027FF /* ArrowDateSelectorApp.swift in Sources */,
 				3210D5952E156E1C006027FF /* ContentView.swift in Sources */,
-				3210D5962E156E1C006027FF /* GlassText.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
