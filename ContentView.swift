@@ -179,6 +179,10 @@ struct ArrowDateSelectorView: View {
         f.setLocalizedDateFormatFromTemplate("MMMMd")
         return f
     }()
+    
+    private var isRunningInPreviews: Bool {
+        ProcessInfo.processInfo.environment["XCODE_RUNNING_FOR_PREVIEWS"] == "1"
+    }
 
     var body: some View {
         ZStack {
@@ -235,8 +239,12 @@ struct ArrowDateSelectorView: View {
                 }
                 .accessibilityLabel("Next day")
             }
+            .buttonStyle(.plain)
             .padding()
         }
+        // PreviewShell can crash while traversing complex accessibility trees.
+        // We keep accessibility for the real app, but hide it in previews.
+        .accessibilityHidden(isRunningInPreviews)
     }
 
     // Top Label Logic
